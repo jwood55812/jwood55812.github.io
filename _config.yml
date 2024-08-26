@@ -142,7 +142,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: right
         title: Western Governors University 
         caption: 2021 - 2023
         sub_title: B.S. Business Administration - IT Management

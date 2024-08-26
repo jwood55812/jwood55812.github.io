@@ -85,14 +85,14 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            •	Lead the vision, strategy, and execution of all IT automation throughout the organization, generating $2.1MM in ongoing annual cost savings.
-            •	Collaborate with cross-functional teams and PMO to prioritize backlog, balancing product features, performance, security, and reliability while providing transparent updates on development progress, resulting in a 20% reduction in customer support issues.
-            •	Drive the development of high-quality, scalable, and reliable software using Automation Anywhere, leveraging the latest technologies and community best practices to create 31 automated processes running across 64 machines.
-            •	Monitor and evaluate industry trends and emerging technologies to inform software strategies and act as a strong advocate for technical innovation – executed software migration in 2023 responsible for saving $150K annually.
-            •	Responsible for managing software and both on and offshore staff augmentation vendor relationships - eliminated $250K worth of yearly vendor spend by performing vendor consolidation process in 2023.
-            •	Deploy agile best practices to ship code at high velocity and with high quality - maintaining an average development team sprint NPS score of 80.
-            •	Perform team gap analysis and ensure developmental opportunities are provided to grow and cross-train staff, ensuring continuity.
-            •	Foster a culture of innovation, continuous improvement, and technical excellence within the software engineering organization through communication, team-building exercises, and morale-boosting activities.
+            •	Lead the vision, strategy, and execution of all IT automation throughout the organization, generating $2.1MM in ongoing annual cost savings.  
+            •	Collaborate with cross-functional teams and PMO to prioritize backlog, balancing product features, performance, security, and reliability while providing transparent updates on development progress, resulting in a 20% reduction in customer support issues.  
+            •	Drive the development of high-quality, scalable, and reliable software using Automation Anywhere, leveraging the latest technologies and community best practices to create 31 automated processes running across 64 machines.  
+            •	Monitor and evaluate industry trends and emerging technologies to inform software strategies and act as a strong advocate for technical innovation – executed software migration in 2023 responsible for saving $150K annually.  
+            •	Responsible for managing software and both on and offshore staff augmentation vendor relationships - eliminated $250K worth of yearly vendor spend by performing vendor consolidation process in 2023.  
+            •	Deploy agile best practices to ship code at high velocity and with high quality - maintaining an average development team sprint NPS score of 80.  
+            •	Perform team gap analysis and ensure developmental opportunities are provided to grow and cross-train staff, ensuring continuity.  
+            •	Foster a culture of innovation, continuous improvement, and technical excellence within the software engineering organization through communication, team-building exercises, and morale-boosting activities.  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

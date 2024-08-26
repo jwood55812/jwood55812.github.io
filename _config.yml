@@ -83,7 +83,7 @@ content:
         sub_title: Director of Enterprise Automation
         caption: February 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Engineering excellence through automation, innovation, and a dash of agile magic — delivering millions in savings, slashing support issues, and building a culture that codes with a smile.
         description: | # this will include new lines to allow paragraphs
             •	Lead the vision, strategy, and execution of all IT automation throughout the organization, generating $2.1MM in ongoing annual cost savings.  
             •	Collaborate with cross-functional teams and PMO to prioritize backlog, balancing product features, performance, security, and reliability while providing transparent updates on development progress, resulting in a 20% reduction in customer support issues.  
@@ -94,31 +94,81 @@ content:
             •	Perform team gap analysis and ensure developmental opportunities are provided to grow and cross-train staff, ensuring continuity.  
             •	Foster a culture of innovation, continuous improvement, and technical excellence within the software engineering organization through communication, team-building exercises, and morale-boosting activities.  
 
+      - layout: left
+        title: Gainwell Technologies (formerly Healthcare Management Systems) 
+        link: https://www.gainwelltechnologies.com/
+        # link_text: boringcompany.com
+        sub_title: Director of Software Engineering
+        caption: April 2016 - February 2022
+        quote: >
+          Transforming legacy tech into real-time powerhouses, streamlining costs, and inspiring a team of tech pros — one project at a time.
+        description: | # this will include new lines to allow paragraphs
+            •	Oversaw design, development, testing, and maintenance for 11 internal J2EE applications within a $210MM annual revenue product vertical, ensuring production releases and fixes were delivered on time and within a $6.3MM budget.  
+            •	Drove $1.68MM in headcount reduction (37 FTEs) through optimization and continual improvement of software solutions performing ANSI X12 270/271 EDI transactions to national insurance carriers.  
+            •	Spearheaded management and delivery of CTO’s modernization initiatives including the transformation of a monolith, batch EDI application into a message-based, real-time architecture, generating an incremental $23MM in yearly revenue.  
+            •	Eliminated over $600K in annual operational expenses through rationalization and consolidation of technology vendors.  
+            •	Fostered a collaborative working relationship with key stakeholders across IT and Operations, defining and executing short and long-term roadmaps, and ensuring continual alignment of product plans.  
+            •	Mentored, motivated, and developed a team of 42+ technology professionals with consistent attention to their career goals and evolving job performance.  
+
+      - layout: left
+        title: Gainwell Technologies (formerly Healthcare Management Systems) 
+        link: https://www.gainwelltechnologies.com/
+        # link_text: boringcompany.com
+        sub_title: Senior Manager of Engineering
+        caption: March 2014 - April 2016
+        quote: >
+          Boosting inventory speed, doubling process throughput, and slashing runtime - all in a days' work.
+        description: | # this will include new lines to allow paragraphs
+            •	Improved the percentage of inventory processed in 10 days by more than 40% by establishing and managing key metrics to measure the effectiveness and quality of the work.  
+            •	Executed requirements gathering, development, unit testing, and delivery of business process automation, generating $450K in incremental monthly revenue by more than doubling throughput across processes.  
+            •	Provided technical guidance to the software development team - sharing best practices through design and code reviews, reducing the amount of time spent on rework by 12 hours weekly.  
+            •	Worked in conjunction with Database and Architecture teams to optimize database and query design, reducing runtime by over 25% for 50K daily transactions.  
+            •	Increased development velocity by >15% via successful transition of the team from Waterfall to Scaled Agile for Enterprise (SAFe) methodology. Championed the project by conducting comprehensive training sessions, implementing Azure DevOps to streamline workflow, and collaborating closely with stakeholders.  
+
+      - layout: left
+        title: United Healthcare
+        link: https://www.uhc.com/
+        # link_text: boringcompany.com
+        sub_title: Automation Manager
+        caption: October 2012 - March 2014
+        quote: >
+          Leading a powerhouse automation team to slash costs, boost efficiency, and deliver high-impact solutions—making every process leaner, faster, and smarter.
+        description: | # this will include new lines to allow paragraphs 
+            •	Managed the day-to-day activities of the business process automation team and ensured project plans and delivery commitments were met - achieved savings of 15 FTEs/$1.2MM in 2013 and savings of 44 FTEs/$2.25MM in 2014.
+            •	Established end-to-end automation group within the UHC Community & State segment and defined the go-forward strategy – responsible for delivering 6 high-value, repeatable automation use cases.
+            •	Built relationships with Operations leadership to fully understand business objectives and processes and collaborated to identify automation opportunities and priorities for enhancements.
+            •	Responsible for establishing service level agreements and developing procedures to monitor and ensure compliance in a 24x7, 365-day-a-week program.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Western Governors University 
+        caption: 2021 - 2023
+        sub_title: B.S. Business Administration - IT Management
+        #quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        #
+        #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Lake Superior University
+        caption: 2007 - 2009
+        sub_title: Supervisory Management
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: A Little More About Me
+    # layout: text
+    # content: | # this will include new lines to allow paragraphs
+      # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      # - Rock climbing
+      # - Gaming
+      # - Knitting
+      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # Look at this cool image  
+      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true

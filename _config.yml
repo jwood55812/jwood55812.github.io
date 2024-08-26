@@ -95,13 +95,13 @@ content:
             •	Foster a culture of innovation, continuous improvement, and technical excellence within the software engineering organization through communication, team-building exercises, and morale-boosting activities.  
 
       - layout: left
-        title: | 
-            Gainwell Technologies  
-            ##### *(formerly Healthcare Management Systems)*
+        title: Gainwell Technologies  
         link: https://www.gainwelltechnologies.com/
         # link_text: boringcompany.com
         sub_title: Director of Software Engineering
         caption: April 2016 - February 2022
+        additional_links:
+          - title: (formerly Healthcare Management Systems)
         quote: >
           Transforming legacy tech into real-time powerhouses, streamlining costs, and inspiring a team of tech pros — one project at a time.
         description: | # this will include new lines to allow paragraphs
@@ -113,13 +113,13 @@ content:
             •	Mentored, motivated, and developed a team of 42+ technology professionals with consistent attention to their career goals and evolving job performance.  
 
       - layout: left
-        title: | 
-            Gainwell Technologies  
-            ##### *(formerly Healthcare Management Systems)*
+        title: Gainwell Technologies  
         link: https://www.gainwelltechnologies.com/
         # link_text: boringcompany.com
         sub_title: Senior Manager of Engineering
         caption: March 2014 - April 2016
+        additional_links:
+          - title: (formerly Healthcare Management Systems)
         quote: >
           Boosting inventory speed, doubling process throughput, and slashing runtime - all in a days' work.
         description: | # this will include new lines to allow paragraphs

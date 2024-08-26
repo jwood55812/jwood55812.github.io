@@ -9,7 +9,7 @@ version: 2
 name: Jason Woodford
 title: Director, Software Engineering
 email: jwood55812@gmail.com
-website: www.jwoodford.com
+website: https://www.jwoodford.com
 
 # Dark Mode (true/false/never)
 darkmode: false

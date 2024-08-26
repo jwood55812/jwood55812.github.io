@@ -48,8 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jason and I'm a Director of Software Engineering!.
-  <br>
+  Hi, my name's Jason and I'm a Director of Software Engineering!
+  &nbsp;
+  &nbsp;
   Strategic IT Director with over 12 years of dynamic healthcare leadership. Adept at organizing 50+ geographically diverse employees under multiple managers and overseeing a $6MM+ budget. Demonstrated proficiency in crafting <mark>multi-year roadmaps</mark>, fostering cross-functional <mark>product development</mark>, <mark>technical innovation</mark>, and <mark>budget control</mark>.
 
 content:

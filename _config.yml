@@ -47,11 +47,13 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jason and I'm a Director of Software Engineering.  
+about_content: | # this will include new lines to allow pararaphs
+  Hi, my name's Jason and I'm passionate about software engineering and automation.  
     
     
-  Strategic IT Director with over 12 years of dynamic healthcare leadership. Adept at organizing 50+ geographically diverse employees under multiple managers and overseeing a $6MM+ budget. Demonstrated proficiency in crafting <mark>multi-year roadmaps</mark>, fostering cross-functional <mark>product development</mark>, <mark>technical innovation</mark>, and <mark>budget control</mark>.
+  I am an experienced IT strategist with over 12 years of dynamic healthcare leadership - adept at organizing 50+ geographically diverse employees under multiple managers and overseeing a $6MM+ budget. I have demonstrated proficiency in crafting multi-year roadmaps, fostering cross-functional product development, technical innovation, and budget control.  
+  
+  Read on for more details of my prior experiences, or feel free to reach out!
 
 content:
   # - title: Projects # Title for the section
@@ -100,8 +102,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Director of Software Engineering
         caption: April 2016 - February 2022
-        additional_links:
-          - title: (formerly Healthcare Management Systems)
         quote: >
           Transforming legacy tech into real-time powerhouses, streamlining costs, and inspiring a team of tech pros — one project at a time.
         description: | # this will include new lines to allow paragraphs
@@ -118,8 +118,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Manager of Engineering
         caption: March 2014 - April 2016
-        additional_links:
-          - title: (formerly Healthcare Management Systems)
         quote: >
           Boosting inventory speed, doubling process throughput, and slashing runtime - all in a days' work.
         description: | # this will include new lines to allow paragraphs

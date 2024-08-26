@@ -95,7 +95,8 @@ content:
             •	Foster a culture of innovation, continuous improvement, and technical excellence within the software engineering organization through communication, team-building exercises, and morale-boosting activities.  
 
       - layout: left
-        title: Gainwell Technologies ##### *(formerly Healthcare Management Systems)*
+        title:  >
+          Gainwell Technologies ##### *(formerly Healthcare Management Systems)*
         link: https://www.gainwelltechnologies.com/
         # link_text: boringcompany.com
         sub_title: Director of Software Engineering
@@ -111,7 +112,8 @@ content:
             •	Mentored, motivated, and developed a team of 42+ technology professionals with consistent attention to their career goals and evolving job performance.  
 
       - layout: left
-        title: Gainwell Technologies ##### *(formerly Healthcare Management Systems)*
+        title:  >
+          Gainwell Technologies ##### *(formerly Healthcare Management Systems)*
         link: https://www.gainwelltechnologies.com/
         # link_text: boringcompany.com
         sub_title: Senior Manager of Engineering
@@ -142,7 +144,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: top-middle
         title: Western Governors University 
         caption: 2021 - 2023
         sub_title: B.S. Business Administration - IT Management
@@ -152,7 +154,7 @@ content:
         #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
         #
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-      - layout: left
+      - layout: top-middle
         title: Lake Superior University
         caption: 2007 - 2009
         sub_title: Supervisory Management
